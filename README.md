@@ -1,12 +1,12 @@
-<h1 align="left">Heya 👧</h1>
+<h1 align="left">Heya </h1>
 
 ###
 
-<h2 align="left">How u Doin 👀</h2>
+<h2 align="left">Semsem world</h2>
 
 ###
 
-<p align="left">It's Sondos, From Egypt !</p>
+<p align="left"></p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020 <br>🔧 Focusing on Problem solving<br>🎯 Goals: Travel the world and change it.</p>
+<p align="left">✨ Creating bugs since 2020 <br>🔧 Focusing on Building Projects and learning. <br>🎯 Goals: Travel the world and change it.</p>
 
 ###
 
