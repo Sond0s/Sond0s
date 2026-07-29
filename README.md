@@ -1,8 +1,8 @@
-<h1 align="left">Heya </h1>
+<h1 align="left">👧 Hola </h1>
 
 ###
 
-<h2 align="left">Semsem world</h2>
+<h2 align="left">💻 Junior Software Backend Engineer</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020 <br>🔧 Focusing on Building Projects and learning. <br>🎯 Goals: Travel the world and change it.</p>
+<p align="left">✨ Passionate about problem-solving, Designing, Clean Code, and deep-diving into backend development.</p>
 
 ###
 
