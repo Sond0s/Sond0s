@@ -10,9 +10,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">✏ About me</h2>
 
 ###
+## 🛠️ Stack
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,flask,postgres,mongo" alt="C++, C#, Java, Python, Flask, PostgreSQL, MongoDB">
 
 <p align="left">✨ Passionate about problem-solving, Designing, Clean Code, and deep-diving into backend development.</p>
 
