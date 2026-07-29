@@ -14,8 +14,8 @@
 <p align="left">✨ Passionate about problem-solving, Designing, Clean Code, and deep-diving into backend development.</p>
 
 ###
-## 🛠️ Stack
-<img src="https://skillicons.dev/icons?i=cpp,cs,HTML,CSS,flask,postgres,mongo" alt="C++, C#, HTML, CSS Flask, PostgreSQL, MongoDB">
+## ⚙ Stack
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,flask,postgres,mongo" alt="C++, C#, Java, Python, Flask, PostgreSQL, MongoDB">
 
 
 ###
